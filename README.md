@@ -54,12 +54,6 @@ Projeto web desenvolvido para apresentar e aproximar iniciativas e organizaçõe
 
 <div align="center">
 
-<br>
-
-<img src="https://raw.githubusercontent.com/juannxyz/juannxyz/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
-
-<br>
-
 **Sempre aprendendo, construindo e experimentando.**
 
 </div>
