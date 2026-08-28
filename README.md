@@ -6,12 +6,6 @@
 
 [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/juannxyz)
 
-<br>
-
-<img src="https://raw.githubusercontent.com/juannxyz/juannxyz/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
-
-</div>
-
 ---
 
 ### Sobre mim
