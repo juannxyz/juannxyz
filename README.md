@@ -1,9 +1,5 @@
 <div align="center">
 
-# `JUAN.EXE`
-
-### `> SYSTEM ONLINE`
-
 **Juan Oliveira**
 `Data • BI • Python • SQL • Web`
 
