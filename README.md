@@ -1,203 +1,71 @@
 <div align="center">
 
-**Juan Oliveira**
-`Data • BI • Python • SQL • Web`
+# Juan Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/juansdeoliveira/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/juannxyz)
+**Tecnologia em Sistemas para Internet · Data · Business Intelligence**
+
+[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/juannxyz)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/juannxyz/juannxyz/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
 
 </div>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PLAYER PROFILE                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NAME       Juan Oliveira                                   ║
-║  LEVEL      22                                               ║
-║  CLASS      Data Explorer                                    ║
-║  LOCATION   Itapetininga - SP                               ║
-║  STUDY      TSI @ IFSP                                      ║
-║                                                              ║
-║  STATUS     [ ONLINE ]                                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### Sobre mim
 
-## `> ABOUT_ME`
+Sou estudante de **Tecnologia em Sistemas para Internet no IFSP**, interessado em transformar dados em informações que possam apoiar decisões e resolver problemas reais.
 
-```text
-I'm a Technology in Internet Systems student at IFSP,
-currently exploring the intersection between data,
-business intelligence and software development.
-
-I like turning raw information into something useful:
-a dashboard, a decision, an automation or a system.
-
-Currently focused on:
-
-[01] Data Analysis
-[02] Business Intelligence
-[03] Python & SQL
-[04] Machine Learning / AI Agents
-[05] Web Development
-```
+Atualmente, venho direcionando meus estudos para **Análise de Dados, Business Intelligence, Python e SQL**, enquanto continuo desenvolvendo projetos em desenvolvimento web e explorando aplicações de Machine Learning e IA.
 
 ---
 
-## `> SKILL_TREE`
+### Tecnologias
 
-### DATA
+<div align="center">
 
-```text
-Python       ███████████████░░░
-SQL          ██████████████░░░░
-Power BI     █████████████░░░░░
-Pandas       ██████████░░░░░░░░
-Matplotlib   █████████░░░░░░░░░
-```
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,html,css,js,git,github,powerbi" />
 
-### WEB
-
-```text
-HTML         █████████████░░░░░
-CSS          █████████████░░░░░
-JavaScript   ██████████░░░░░░░░
-Bootstrap     █████████░░░░░░░░░
-```
-
-### TOOLS
-
-```text
-Git          ████████████░░░░░░
-GitHub       █████████████░░░░░
-MySQL        ██████████░░░░░░░░
-PostgreSQL   ████████░░░░░░░░░░
-```
+</div>
 
 ---
 
-## `> CURRENT_MISSION`
+### Projetos
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  [ QUEST ] Become better at working with data.             │
-│                                                            │
-│  ├─ Learn deeper data analysis                             │
-│  ├─ Build useful BI dashboards                             │
-│  ├─ Improve SQL & data modeling                            │
-│  ├─ Explore machine learning                              │
-│  └─ Build intelligent systems and agents                   │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+**Análise de Dados Públicos**
+Exploração e análise de dados públicos utilizando Python, Pandas e Matplotlib, com foco em limpeza, investigação de dados e identificação de padrões.
+
+**Dashboard de Impressões e Descartes**
+Projeto de Business Intelligence voltado ao acompanhamento de impressões, descartes, responsáveis, filiais e indicadores operacionais.
+
+**PokeDROPS**
+Projeto web inspirado em sistemas de recompensa e colecionáveis, desenvolvido com JavaScript.
+
+**Entre-Causas**
+Projeto web desenvolvido para apresentar e aproximar iniciativas e organizações sociais da região.
 
 ---
 
-## `> PROJECTS`
+### Atualmente
 
-### 🎴 `PokeDROPS`
-
-> A gacha-style reward system inspired by Pokémon.
-
-`JavaScript`
-
----
-
-### 🌐 `Entre-Causas`
-
-> A project focused on creating a digital showcase for NGOs from Itapetininga.
-
-`HTML` `CSS`
-
----
-
-### 🛒 `Projeto Web E-commerce`
-
-> Web development project focused on an online commerce experience.
-
-`HTML` `CSS`
-
----
-
-### ⚡ `Faster`
-
-> An experimental project exploring web development and interfaces.
-
----
-
-### 🎨 `Portfolio Targa`
-
-> A creative web project developed as a personalized digital experience.
-
-`CSS`
-
----
-
-## `> DATA_LOG`
-
-```text
-2026
-
-[✓] Started exploring public datasets
-[✓] Practiced exploratory data analysis
-[✓] Worked with Python + Pandas
-[✓] Created visualizations with Matplotlib
-[✓] Explored COMEX data
-[✓] Studied BI and data-driven decision making
-[ ] Build more data projects
-[ ] Explore Machine Learning
-[ ] Build intelligent agents
-```
-
----
-
-## `> CURRENT_LOADOUT`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🐍 Python                                   │
-│  🗃️ SQL                                      │
-│  📊 Power BI                                 │
-│  🌐 HTML / CSS / JavaScript                  │
-│  🐘 PostgreSQL                               │
-│  🐬 MySQL                                   │
-│  🔧 Git / GitHub                             │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## `> TERMINAL`
-
-```bash
-$ whoami
-
-juan@github:~$ echo "turning data into decisions"
-
-> response:
-> building, learning and experimenting.
-```
+* Estudando **Análise de Dados e BI**
+* Aprofundando conhecimentos em **Python e SQL**
+* Desenvolvendo projetos com **Power BI**
+* Explorando **Machine Learning e agentes de IA**
+* Aprimorando fundamentos de **desenvolvimento web**
 
 ---
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║        THANKS FOR VISITING MY LAB          ║
-║                                            ║
-║          [ PRESS ENTER TO CONTINUE ]      ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
+<br>
 
-**`© 2026 Juan Oliveira`**
+<img src="https://raw.githubusercontent.com/juannxyz/juannxyz/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake">
+
+<br>
+
+**Sempre aprendendo, construindo e experimentando.**
 
 </div>
